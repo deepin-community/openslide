@@ -1,0 +1,9 @@
+Registry:
+ - Name: biii
+   Entry: openslide
+ - Name: SciCrunch
+   Entry: NA
+ - Name: bio.tools
+   Entry: NA
+ - Name: OMICtools
+   Entry: OMICS_14871
